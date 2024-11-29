@@ -1,0 +1,205 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Papaya,Other,Medium,29/11/2024,4700,4800,4750
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),"Peas Wet","Peas Wet",FAQ,29/11/2024,6000,6200,6100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Pineapple,Other,Medium,29/11/2024,6000,6200,6100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Raddish,Raddish,FAQ,29/11/2024,1600,1700,1650
+"Himachal Pradesh",Kangra,Palampur,Brinjal,Brinjal,FAQ,29/11/2024,2800,3000,2900
+"Himachal Pradesh",Kangra,Palampur,"French Beans (Frasbean)",Other,FAQ,29/11/2024,2800,3000,2900
+"Himachal Pradesh",Kangra,Palampur,Lemon,Other,FAQ,29/11/2024,8800,9000,8900
+"Himachal Pradesh",Kangra,Palampur,Methi(Leaves),Other,FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Orange,Other,Medium,29/11/2024,6400,6500,6450
+"Himachal Pradesh",Kangra,Palampur,Tinda,Tinda,FAQ,29/11/2024,5000,5500,5200
+"Himachal Pradesh",Kangra,Palampur,Tomato,Tomato,FAQ,29/11/2024,4000,4200,4100
+Kerala,Alappuzha,Harippad,Ashgourd,Other,FAQ,29/11/2024,3000,3500,3000
+Kerala,Alappuzha,Harippad,"Bitter gourd",Other,FAQ,29/11/2024,5000,5500,5000
+Kerala,Alappuzha,Harippad,"Bottle gourd",Other,FAQ,29/11/2024,1000,1400,1000
+Kerala,Alappuzha,Harippad,Cowpea(Veg),Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Pathanamthitta,"Pramadom VFPCK",Tapioca,Tapioca,FAQ,29/11/2024,1000,4500,3300
+Kerala,Thirssur,Irinjalakkuda,Banana,Other,Large,29/11/2024,5000,5000,5000
+Kerala,Thirssur,Irinjalakkuda,Brinjal,Other,FAQ,29/11/2024,3000,3000,3000
+Kerala,Thirssur,Irinjalakkuda,Potato,Other,FAQ,29/11/2024,3500,3500,3500
+"Madhya Pradesh",Seoni,Palari,Maize,Yellow,FAQ,29/11/2024,2222,2235,2235
+Punjab,kapurthala,Sultanpur,Garlic,Other,FAQ,29/11/2024,3500,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Ashgourd,Gouard,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Coconut,Coconut,Local,29/11/2024,1600,2000,2000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Green Chilli","Green Chilly",Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Mango (Raw-Ripe)","Mango - Raw-Ripe",Local,29/11/2024,4200,5000,5000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Onion Green","Onion Green",Local,29/11/2024,6000,8000,8000
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Brinjal,Brinjal,FAQ,29/11/2024,900,1100,1000
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Onion,Red,FAQ,29/11/2024,3100,3300,3200
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Potato,Desi,FAQ,29/11/2024,2300,2500,2400
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,29/11/2024,2010,3025,2650
+Haryana,Gurgaon,Gurgaon,Cauliflower,Other,FAQ,29/11/2024,2000,4000,3000
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Kinnow,Kinnow,Medium,29/11/2024,4200,4400,4300
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Tinda,Other,FAQ,29/11/2024,5200,5500,5300
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Tomato,Tomato,FAQ,29/11/2024,4100,4300,4200
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Turnip,Other,FAQ,29/11/2024,3300,3400,3350
+"Himachal Pradesh",Kangra,Palampur,"Bhindi(Ladies Finger)",Other,FAQ,29/11/2024,7400,7500,7450
+"Himachal Pradesh",Kangra,Palampur,Cabbage,Cabbage,FAQ,29/11/2024,2700,2800,2750
+"Himachal Pradesh",Kangra,Palampur,Capsicum,Capsicum,FAQ,29/11/2024,3800,4000,3900
+"Himachal Pradesh",Kangra,Palampur,Cauliflower,Cauliflower,FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Garlic,Average,FAQ,29/11/2024,30000,35000,32000
+"Himachal Pradesh",Kangra,Palampur,"Indian Colza(Sarson)",Other,FAQ,29/11/2024,2800,3000,2900
+"Himachal Pradesh",Kangra,Palampur,"Peas Wet",Other,FAQ,29/11/2024,5800,6000,5900
+"Himachal Pradesh",Kangra,Palampur,Pomegranate,Other,Medium,29/11/2024,13000,13500,13200
+"Himachal Pradesh",Kangra,Palampur,Potato,Other,FAQ,29/11/2024,3000,3200,3100
+Kerala,Alappuzha,Harippad,Amaranthus,Other,FAQ,29/11/2024,5000,5500,5000
+Kerala,Alappuzha,Harippad,Brinjal,Other,FAQ,29/11/2024,3000,3500,3000
+Kerala,Alappuzha,Harippad,Cucumbar(Kheera),Other,FAQ,29/11/2024,3000,3500,3000
+Kerala,Pathanamthitta,"Pramadom VFPCK",Ashgourd,Ashgourd,FAQ,29/11/2024,800,1000,900
+Kerala,Thirssur,Irinjalakkuda,Ashgourd,Other,FAQ,29/11/2024,2500,2500,2500
+Kerala,Thirssur,Irinjalakkuda,"Banana - Green",Other,FAQ,29/11/2024,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Carrot,Other,FAQ,29/11/2024,6000,6000,6000
+Kerala,Thirssur,Irinjalakkuda,Coconut,Other,FAQ,29/11/2024,6300,6300,6300
+Kerala,Thirssur,Irinjalakkuda,"Indian Beans (Seam)",Other,FAQ,29/11/2024,5500,5500,5500
+"Madhya Pradesh",Datia,Datia,"Green Peas",Pea,FAQ,29/11/2024,3450,3600,3600
+Punjab,Ludhiana,Sahnewal,Raddish,Raddish,FAQ,29/11/2024,1000,1000,1000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Bitter gourd","Bitter Gourd",Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Brinjal,Round,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Knool Khol","Knool Khol",Local,29/11/2024,6000,8000,8000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Lemon,Lemon,Local,29/11/2024,12000,14000,14000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Mint(Pudina),Mint(Pudina),Local,29/11/2024,3300,4000,4000
+"Uttar Pradesh",Fatehpur,Jahanabad,"Green Chilli","Green Chilly",FAQ,29/11/2024,1000,1002,1001
+"Uttar Pradesh",Hathras,Shadabad,Potato,Desi,FAQ,29/11/2024,1500,1600,1550
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Bitter gourd","Bitter Gourd",FAQ,29/11/2024,900,1100,1000
+Bihar,Rohtas,"Kochas (Balthari)",Onion,Medium,FAQ,29/11/2024,4400,4600,4500
+Gujarat,Narmada,Rajpipla,Cotton,"Cotton (Unginned)",FAQ,29/11/2024,6878,7811,7314
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Brinjal,Brinjal,FAQ,29/11/2024,3200,3300,3250
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Cabbage,Cabbage,FAQ,29/11/2024,2800,3000,2900
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Capsicum,Capsicum,FAQ,29/11/2024,4500,4600,4550
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Cauliflower,Cauliflower,FAQ,29/11/2024,5000,5200,5100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),"French Beans (Frasbean)","French Beans (Frasbean)",FAQ,29/11/2024,3200,3300,3250
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),"Green Chilli","Green Chilly",FAQ,29/11/2024,3600,4600,4100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Guava,Guava,Medium,29/11/2024,5400,5500,5450
+"Himachal Pradesh",Kangra,Palampur,Coriander(Leaves),Coriander,FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Cucumbar(Kheera),Other,FAQ,29/11/2024,3800,4000,3900
+"Himachal Pradesh",Kangra,Palampur,"Mousambi(Sweet Lime)",Other,Medium,29/11/2024,5800,6000,5900
+"Himachal Pradesh",Kangra,Palampur,"Persimon(Japani Fal)",Other,Medium,29/11/2024,11500,12000,11700
+"Himachal Pradesh",Kangra,Palampur,Raddish,Raddish,FAQ,29/11/2024,1500,1600,1550
+Kerala,Alappuzha,Harippad,"Banana - Green",Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,29/11/2024,6000,6500,6000
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Alappuzha,Harippad,Colacasia,Other,FAQ,29/11/2024,7000,7600,7000
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Banana,"Nendra Bale",Large,29/11/2024,2000,7200,6200
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Cowpea(Veg),"Cowpea (Veg)",FAQ,29/11/2024,7000,7500,7100
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Cucumbar(Kheera),Other,FAQ,29/11/2024,1500,3000,2100
+Kerala,Thirssur,Irinjalakkuda,"Bhindi(Ladies Finger)",Other,FAQ,29/11/2024,3800,3800,3800
+Kerala,Thirssur,Irinjalakkuda,Coriander(Leaves),Coriander,FAQ,29/11/2024,7000,7000,7000
+Kerala,Thirssur,Irinjalakkuda,Cowpea(Veg),Other,FAQ,29/11/2024,4500,4500,4500
+"Madhya Pradesh",Raisen,Bareli,Paddy(Dhan)(Common),Paddy,FAQ,29/11/2024,2901,3001,3001
+"Madhya Pradesh",Seoni,Seoni,Maize,Yellow,FAQ,29/11/2024,80,2320,2200
+Punjab,kapurthala,Sultanpur,"Peas Wet",Other,FAQ,29/11/2024,2900,3000,3000
+Punjab,Ludhiana,Sahnewal,Potato,Potato,FAQ,29/11/2024,2400,2400,2400
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Banana - Green","Banana - Green",Local,29/11/2024,1200,1500,1500
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Beans,"Beans (Whole)",Local,29/11/2024,6000,8000,8000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Bottle gourd","Bottle Gourd",Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Carrot,Pusakesar,Local,29/11/2024,6000,8000,8000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Cluster beans","Cluster Beans",Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Drumstick,Drumstick,Local,29/11/2024,16000,20000,20000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Guava,"Guava Alahabad",Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Onion,Bellary,Local,29/11/2024,5000,6000,6000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Papaya,Papaya,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Tamarind Fruit","Tamarind Fruit",Local,29/11/2024,8000,10000,10000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Tomato,Deshi,Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Yam (Ratalu)","Yam (Ratalu)",Local,29/11/2024,6000,8000,8000
+"Uttar Pradesh",Fatehpur,Jahanabad,Wood,Eucalyptus,FAQ,29/11/2024,300,302,301
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Bottle gourd","Bottle Gourd",FAQ,29/11/2024,1000,1200,1100
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Cauliflower,Cauliflower,FAQ,29/11/2024,1200,1500,1250
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,29/11/2024,5000,15000,10000
+Haryana,Gurgaon,Gurgaon,Onion,Other,FAQ,29/11/2024,2000,4000,3000
+Haryana,Gurgaon,Gurgaon,Potato,Other,FAQ,29/11/2024,1000,2000,1500
+Haryana,Gurgaon,Gurgaon,Tomato,Other,FAQ,29/11/2024,2000,4000,3000
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Carrot,Carrot,FAQ,29/11/2024,3800,4000,3900
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Coriander(Leaves),Coriander,FAQ,29/11/2024,5000,5200,5100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),"Indian Colza(Sarson)","Indian Colza(Sarson)",FAQ,29/11/2024,3000,3200,3100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Methi(Leaves),Methi,FAQ,29/11/2024,5000,5200,5100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Potato,Potato,FAQ,29/11/2024,3200,3300,3250
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Spinach,Other,FAQ,29/11/2024,2200,2300,2250
+"Himachal Pradesh",Kangra,Palampur,Apple,Apple,Medium,29/11/2024,9000,10000,9500
+"Himachal Pradesh",Kangra,Palampur,"Bottle gourd","Bottle Gourd",FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Carrot,Carrot,FAQ,29/11/2024,3700,3800,3750
+"Himachal Pradesh",Kangra,Palampur,Colacasia,Colacasia,FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Ginger(Green),Other,FAQ,29/11/2024,7500,8000,7700
+"Himachal Pradesh",Kangra,Palampur,"Green Chilli","Green Chilly",FAQ,29/11/2024,3500,4500,4000
+"Himachal Pradesh",Kangra,Palampur,Guava,Other,Medium,29/11/2024,5200,5500,5300
+"Himachal Pradesh",Kangra,Palampur,Kinnow,Other,Medium,29/11/2024,4000,4200,4100
+"Himachal Pradesh",Kangra,Palampur,Pineapple,Other,Medium,29/11/2024,5800,6000,5900
+"Himachal Pradesh",Kangra,Palampur,Spinach,Spinach,FAQ,29/11/2024,2000,2200,2100
+Kerala,Alappuzha,Harippad,Amphophalus,Other,FAQ,29/11/2024,6000,6400,6000
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Pathanamthitta,"Kalanjoor  VFPCK",Banana,Poovan,Large,29/11/2024,3100,4500,4100
+Kerala,Pathanamthitta,"Kalanjoor  VFPCK","Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,29/11/2024,5000,5600,5200
+Kerala,Pathanamthitta,"Kalanjoor  VFPCK",Tapioca,Tapioca,FAQ,29/11/2024,2500,3200,3100
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Tapioca,Other,FAQ,29/11/2024,2800,3500,3100
+Kerala,Pathanamthitta,"Pramadom VFPCK",Banana,Palayamthodan,Large,29/11/2024,800,1500,1200
+Kerala,Thirssur,Irinjalakkuda,"Bitter gourd",Other,FAQ,29/11/2024,4000,4000,4000
+Kerala,Thirssur,Irinjalakkuda,Cabbage,Other,FAQ,29/11/2024,3500,3500,3500
+Kerala,Thirssur,Irinjalakkuda,Capsicum,Capsicum,FAQ,29/11/2024,8500,8500,8500
+Kerala,Thirssur,Irinjalakkuda,Onion,Other,FAQ,29/11/2024,5000,5000,5000
+"Madhya Pradesh",Khandwa,Harsood,Soyabean,Soyabeen,FAQ,29/11/2024,3616,4061,3901
+"Madhya Pradesh",Raisen,Obedullaganj,Paddy(Dhan)(Common),1121,FAQ,29/11/2024,3200,3200,3200
+Punjab,kapurthala,Sultanpur,Carrot,Other,FAQ,29/11/2024,1900,2000,2000
+Punjab,kapurthala,Sultanpur,Cauliflower,Other,FAQ,29/11/2024,1900,2000,2000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Amaranthus,Amaranthus,Local,29/11/2024,1200,1500,1500
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Amla(Nelli Kai)",Amla,Local,29/11/2024,8000,10000,10000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Beetroot,Beetroot,Local,29/11/2024,5000,6000,6000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Chow Chow","Chow Chow",Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Coriander(Leaves),"I Sort",Local,29/11/2024,5000,6000,6000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Potato,"(Red Nanital)",Local,29/11/2024,5000,6000,6000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Sweet Potato","Hosur Red",Local,29/11/2024,2500,3000,3000
+"Uttar Pradesh",Fatehpur,Jahanabad,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,29/11/2024,2600,2700,2650
+"Uttar Pradesh",Fatehpur,Jahanabad,Wheat,Dara,FAQ,29/11/2024,2300,2302,2301
+"Uttar Pradesh",Hathras,Shadabad,Onion,Red,FAQ,29/11/2024,3100,3200,3150
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Apple,Delicious,Medium,29/11/2024,6000,6200,6100
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Bhindi(Ladies Finger)",Bhindi,FAQ,29/11/2024,1000,1100,1050
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Cucumbar(Kheera),Cucumbar,FAQ,29/11/2024,1600,1700,1650
+Haryana,Gurgaon,Gurgaon,Banana,Other,Large,29/11/2024,2000,3000,2500
+Haryana,Gurgaon,Gurgaon,"Bottle gourd","Bottle Gourd",FAQ,29/11/2024,1000,2000,1500
+Haryana,Gurgaon,Gurgaon,Cabbage,Other,FAQ,29/11/2024,1000,1400,1200
+Haryana,Gurgaon,Gurgaon,Orange,Other,Large,29/11/2024,2000,4000,3000
+Haryana,Gurgaon,Gurgaon,Pomegranate,Other,Large,29/11/2024,10000,15000,12500
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Banana,"Banana - Ripe",Medium,29/11/2024,5000,5200,5100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Colacasia,Colacasia,FAQ,29/11/2024,5000,5200,5100
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Onion,"1st Sort",FAQ,29/11/2024,4700,5200,4900
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Orange,Medium,Medium,29/11/2024,6500,6600,6550
+"Himachal Pradesh",Kangra,Kangra(Jaisinghpur),Pomegranate,Other,Medium,29/11/2024,13500,14000,13700
+"Himachal Pradesh",Kangra,Palampur,Banana,"Banana - Ripe",Medium,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Beetroot,Beetroot,FAQ,29/11/2024,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Onion,Other,FAQ,29/11/2024,4600,5000,4800
+"Himachal Pradesh",Kangra,Palampur,Papaya,Other,Medium,29/11/2024,4600,4700,4650
+"Himachal Pradesh",Kangra,Palampur,Turnip,Other,FAQ,29/11/2024,3200,3300,3250
+Kerala,Alappuzha,Harippad,Banana,"Nendra Bale",Medium,29/11/2024,5000,5500,5000
+Kerala,Alappuzha,Harippad,"Bhindi(Ladies Finger)",Other,FAQ,29/11/2024,4000,4500,4000
+Kerala,Alappuzha,Harippad,Capsicum,Other,FAQ,29/11/2024,8000,8600,8000
+Kerala,Pathanamthitta,"Pramadom VFPCK",Ginger(Green),Other,FAQ,29/11/2024,10500,15000,12700
+Kerala,Thirssur,Irinjalakkuda,Beetroot,Other,FAQ,29/11/2024,4500,4500,4500
+Kerala,Thirssur,Irinjalakkuda,"Bottle gourd",Other,FAQ,29/11/2024,3500,3500,3500
+Kerala,Thirssur,Irinjalakkuda,Cauliflower,Other,FAQ,29/11/2024,4500,4500,4500
+Kerala,Thirssur,Irinjalakkuda,Cucumbar(Kheera),Other,FAQ,29/11/2024,3000,3000,3000
+"Madhya Pradesh",Chhindwara,Chhindwara,Maize,Local,FAQ,29/11/2024,2250,2250,2250
+"Madhya Pradesh",Khandwa,Harsood,Soyabean,Yellow,FAQ,29/11/2024,1701,4108,4059
+"Madhya Pradesh",Raisen,Bareli,Paddy(Dhan)(Common),Basumathi,FAQ,29/11/2024,3001,3001,3001
+"Madhya Pradesh",Ratlam,Jaora,Garlic,Garlic,FAQ,29/11/2024,19800,22000,21000
+Punjab,kapurthala,Sultanpur,Brinjal,Other,FAQ,29/11/2024,1800,2000,2000
+Punjab,kapurthala,Sultanpur,Raddish,Other,FAQ,29/11/2024,450,500,500
+Punjab,Ludhiana,Sahnewal,Onion,Onion,FAQ,29/11/2024,4500,4500,4500
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Banana,Besrai,Local,29/11/2024,4200,5000,5000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Bhindi(Ladies Finger)",Bhindi,Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Custard Apple (Sharifa)","Custard Apple(Sharifa)",Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )","Green Avare (W)","Avare (W)",Local,29/11/2024,6000,8000,8000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Maize,"Deshi Red",Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Pumpkin,Pumpkin,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Raddish,Raddish,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Ridgeguard(Tori),Ridgeguard(Tori),Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Snakeguard,Snakeguard,Local,29/11/2024,3300,4000,4000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Tapioca,Tapioca,Local,29/11/2024,2500,3000,3000
+"Tamil Nadu",Thiruvannamalai,"Chengam(Uzhavar Sandhai )",Thondekai,Thondekai,Local,29/11/2024,5000,6000,6000
+"Tamil Nadu",Villupuram,Gingee,"Bajra(Pearl Millet/Cumbu)",Other,Local,29/11/2024,2100,2971,2411
+Telangana,Khammam,Dammapet,Maize,"Deshi Red",FAQ,29/11/2024,2230,2250,2240
+Telangana,Khammam,Dammapet,Paddy(Dhan)(Common),1001,FAQ,29/11/2024,2300,2320,2310
+"Uttar Pradesh",Fatehpur,Jahanabad,Paddy(Dhan)(Basmati),1121,FAQ,29/11/2024,2300,2310,2305
+"Uttar Pradesh",Fatehpur,Jahanabad,Rice,Common,FAQ,29/11/2024,2200,2202,2201
+"Uttar Pradesh",Hathras,Shadabad,Tomato,Deshi,FAQ,29/11/2024,2100,2200,2150
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Banana,Medium,Medium,29/11/2024,1000,1200,1100
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Tomato,Hybrid,FAQ,29/11/2024,2100,2300,2200

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Agriculture Data Visualization</h1>
+        <a href="{{ url_for('main.index') }}">Go Back</a>
+        {% for graph_key, graph_info in graph_data.items() %}
+            {% if graph_info.graph %}
+                <div class="graph-container">
+                    <h2>{{ graph_info.header }}</h2>
+                    <div>{{ graph_info.graph|safe }}</div>
+                </div>
+            {% endif %}
+        {% endfor %}
+
+    </div>
+</body>
+</html>

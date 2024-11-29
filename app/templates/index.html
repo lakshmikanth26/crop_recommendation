@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Analytics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Crop Data Visualization</h1>
+        <form method="POST" action="{{ url_for('main.visualize') }}">
+            <label for="analysis_type">Select Analysis Type:</label>
+            <select name="analysis_type" id="analysis_type">
+                <option value="crop_yield_vs_rainfall">Crop Yield vs. Rainfall Analysis by State</option>
+                <option value="crop_price_trends">Crop Price Trends Over Time</option>
+                <option value="rainfall_analysis">Rainfall Analysis</option>
+                <option value="crop_varieties">Crop Varieties</option>
+            </select>
+            <button type="submit">Generate Graph</button>
+        </form>
+    </div>
+</body>
+</html>
